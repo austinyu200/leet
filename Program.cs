@@ -12,6 +12,7 @@ namespace leet
         {
             Console.WriteLine("Reverse :" + Reverse.reverse(-156468));
             Console.WriteLine("FizzBuzz :" + JsonSerializer.Serialize(FizzBuzz.fizzBuzz(15)));
+            Console.WriteLine("Sqrt: " + Sqrt.sqrt(10));
         }
 
 
