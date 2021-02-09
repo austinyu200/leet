@@ -1,0 +1,13 @@
+C:\Users\austin_yu\Desktop\leet\bin\Debug\netcoreapp3.1\leet.exe
+C:\Users\austin_yu\Desktop\leet\bin\Debug\netcoreapp3.1\leet.deps.json
+C:\Users\austin_yu\Desktop\leet\bin\Debug\netcoreapp3.1\leet.runtimeconfig.json
+C:\Users\austin_yu\Desktop\leet\bin\Debug\netcoreapp3.1\leet.runtimeconfig.dev.json
+C:\Users\austin_yu\Desktop\leet\bin\Debug\netcoreapp3.1\leet.dll
+C:\Users\austin_yu\Desktop\leet\bin\Debug\netcoreapp3.1\leet.pdb
+C:\Users\austin_yu\Desktop\leet\obj\Debug\netcoreapp3.1\leet.csprojAssemblyReference.cache
+C:\Users\austin_yu\Desktop\leet\obj\Debug\netcoreapp3.1\leet.AssemblyInfoInputs.cache
+C:\Users\austin_yu\Desktop\leet\obj\Debug\netcoreapp3.1\leet.AssemblyInfo.cs
+C:\Users\austin_yu\Desktop\leet\obj\Debug\netcoreapp3.1\leet.dll
+C:\Users\austin_yu\Desktop\leet\obj\Debug\netcoreapp3.1\leet.pdb
+C:\Users\austin_yu\Desktop\leet\obj\Debug\netcoreapp3.1\leet.csproj.CoreCompileInputs.cache
+C:\Users\austin_yu\Desktop\leet\obj\Debug\netcoreapp3.1\leet.genruntimeconfig.cache
